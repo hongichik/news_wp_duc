@@ -17,7 +17,7 @@
 <?php endwhile; endif; ?>
 
 <p class="edit"><?php edit_post_link(__('Edit','wp_multiflex'),'',''); ?></p>
-
+<?php include (TEMPLATEPATH . '/comments.php'); ?>
 </div>
 	
 
