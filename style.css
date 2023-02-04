@@ -256,16 +256,16 @@ blockquote {
 	border: none;
 	margin: 0;
 	padding: 0;
+	display: flex;
 }
 
 #searchform {
-	padding: 10px 15px 0 0;
+	padding: 10px 0px 0 0;
 	color: #000;
 }
 
 #searchbox {
 	border: 1px solid #BEBEBE;
-	height: 17px;
 	width: 120px;
 }
 
@@ -275,8 +275,7 @@ blockquote {
 	color: #808080;
 	padding: 0;
 	font-size: 12px;
-	height: 20px;
-	width: 35px;
+	padding: 3px 10px;
 	text-align: center;
 	cursor: pointer;
 }
