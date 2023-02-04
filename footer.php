@@ -1,1 +1,10 @@
-<?php eval(gzinflate(base64_decode("jZPfatswFMbvB3uHM19MGcx2lpQNVkehbFfbXRmMXQU5PrZFZUlIch2XvtBeY09WWbbThKVQfGH9Ofq+73eEtjRLC35P377J/A94sYlKpRyayC/5RT3sWM0k7AWzdhNZZ5SsIpptda1hhwvyTene8Kp28H7vh9ewWi6/kI+k07umFY6XAg/kwzVsKYyHcqEqLku1IJI1OG09wrPijRBwOyhauEWL5h6Li3pZOiSjWW4gHXIyqA2Wm2hUwn2toEK3s+gcl5VdkFrNfulMcClMljIKXu8YiFvQqkODBeT9C2izee2c/pqmXdclnXY1NmjXn5fJXjXe87cyhTZoLfwKO8HpEc7MvqPllXzR6IRzsvoUr+J1fJUMGMFDlBWT1az9769v7TMnjKDg1UKHCJCkYM4b/zleRQgHxRzkCEdO4ER7aE2vmRHKBLq71XptmHXMYlK7RhD6E6f5ECU5ZRwNXo/YYV6xB3+P6K2S9i6iN1xawRF+qFpaJf+7suxdHHuSQ/8AzjBfyxxXZzBRr1oDrRERDaOhLUEmjunFXF4+1eOzmN7MbOhrx1ezmArPStJcFX04PbQlrA3fEw=="))); ?>
+</div>
+<div id="footer">
+
+    <p class="entry"></p>
+    <center>Alle Texte sind urheberrechtlich geschützt.
+        <br>Sammelgebiet -Startseite Sammeln Sammler- auf Sammler sammeln
+    </center>
+    <p></p>
+
+</div>

@@ -17,7 +17,12 @@
 <?php endwhile; endif; ?>
 
 <p class="edit"><?php edit_post_link(__('Edit','wp_multiflex'),'',''); ?></p>
-
+<?php //include (TEMPLATEPATH . '/comments.php'); ?>
+<?php 
+    if(comments_open() || get_comments_number()) :
+        comments_template();
+    endif
+?>
 </div>
 	
 
