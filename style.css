@@ -227,7 +227,6 @@ blockquote {
 	color: #7D7D7D;
 	font-weight: bold;
 	font-size: 11px;
-	width: 700px;
 }
 
 
@@ -863,6 +862,8 @@ td#next {
 	height: 50px;
 	text-align: center;
 	font-size: 12px;
+	background-size: 100% 100%;
+	padding-bottom: 10px;
 }
 
 #footer .entry p {
@@ -914,23 +915,22 @@ h3#comments {
 #author {
 	border: 1px solid #DCDCDC;
 	height: 17px;
-	width: 190px;
+
 }
 
 #email {
 	border: 1px solid #DCDCDC;
 	height: 17px;
-	width: 190px;
+
 }
 
 #url {
 	border: 1px solid #DCDCDC;
 	height: 17px;
-	width: 190px;
+
 }
 
 #comment {
-	width: 405px;
 	border: 1px solid #DCDCDC;
 }
 
